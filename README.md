@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**mohamed-git-khedr/mohamed-git-khedr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm [Mohamed Khedr] 👋
 
-Here are some ideas to get you started:
+** CS Student **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🚀 About Me
+
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
+I am a Computer Science student enthusiastic about learning programming <br/>
+
+
+
+
+
+<br clear="right"/>
+
+## 🔧 My Tech Stack
+
+
+## 📊 GitHub Stats
+
+
+
+
+## 🎯 LeetCode Heatmap
+
+
+
+
+## 🔗 Connect with Me
+
+<div align="center">
+  
+
+[![LinkedIn](www.linkedin.com/in/mohamed-khedr-36b615222)
+
+
+</div>
